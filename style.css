@@ -38,7 +38,7 @@ a {
   border: 1px solid white;
   display: table;
   position: absolute;
-  top: 60%;
+  top: 90%;
   left: 50%;
   letter-spacing: 0.05em;
   transform: translate3d(-50%, -50%, 0);
